@@ -1,0 +1,54 @@
+.bsmaps-gmap {
+	min-height: 200px;
+	background: #ffffff59;
+	color: #000000;
+}
+.bsmap-gmap-container {
+	margin: 0 auto;
+	max-width: 1200px;
+	width: 100%;
+
+}
+
+.bsmap-gmap-map-container {
+	height: 100%;
+	width: 100%
+}
+
+.bsmap-gmap-map-wrapper {
+	height: 500px;
+	width: 100%
+}
+
+.bsmaps-gmap h1 {
+	margin-bottom: 30px
+}
+
+.bsmaps-gmap h2 {
+	margin-bottom: 16px
+}
+
+.bsmaps-gmap label {
+	margin-right: 10px
+}
+
+.bsmaps-gmap button, .bsmaps-gmap input, .bsmaps-gmap textarea {
+	border: 1px solid #000;
+	border-radius: 10px;
+	outline: none;
+	padding: 10px
+}
+
+.bsmaps-gmap button {
+	background-color: #000;
+	color: #fff;
+	cursor: pointer
+}
+
+.bsmaps-gmap input:focus {
+	outline: none
+}
+
+.bsmaps-gmap .marker-label {
+	margin-bottom: 10px
+}
